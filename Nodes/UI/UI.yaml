@@ -183,7 +183,7 @@ Children:
     - Name: HoleSizePercent
       Id: g=a02c2f8058f26fa2169cb30d0eea4d87
       Type: BaseDataVariableType
-      DataType: Double
+      DataType: Percentage
       Value: 0.0
       Children:
       - Name: DynamicLink
@@ -369,7 +369,7 @@ Children:
     - Name: HoleSizePercent
       Id: g=12c82a54b2140a24a3448e57095230b5
       Type: BaseDataVariableType
-      DataType: Double
+      DataType: Percentage
       Value: 0.0
       Children:
       - Name: DynamicLink
@@ -484,7 +484,7 @@ Children:
     - Name: HoleSizePercent
       Id: g=c8dabd4e8b2b78d22678361f5d3bfdb8
       Type: BaseDataVariableType
-      DataType: Double
+      DataType: Percentage
       Value: 0.0
       Children:
       - Name: DynamicLink
@@ -723,7 +723,7 @@ Children:
     - Name: HoleSizePercent
       Id: g=bdc47f44f059e9a629bb0d4b77e33668
       Type: BaseDataVariableType
-      DataType: Double
+      DataType: Percentage
       Value: 0.0
       Children:
       - Name: DynamicLink
@@ -998,7 +998,7 @@ Children:
     - Name: HoleSizePercent
       Id: g=f53be23b8ce4f3334c49b9a29333a8df
       Type: BaseDataVariableType
-      DataType: Double
+      DataType: Percentage
       Value: 0.0
       Children:
       - Name: DynamicLink
